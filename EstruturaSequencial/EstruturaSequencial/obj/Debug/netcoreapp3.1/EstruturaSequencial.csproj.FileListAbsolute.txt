@@ -1,0 +1,13 @@
+C:\Csharp\Exercicios\EstruturaSequencial\EstruturaSequencial\bin\Debug\netcoreapp3.1\EstruturaSequencial.exe
+C:\Csharp\Exercicios\EstruturaSequencial\EstruturaSequencial\bin\Debug\netcoreapp3.1\EstruturaSequencial.deps.json
+C:\Csharp\Exercicios\EstruturaSequencial\EstruturaSequencial\bin\Debug\netcoreapp3.1\EstruturaSequencial.runtimeconfig.json
+C:\Csharp\Exercicios\EstruturaSequencial\EstruturaSequencial\bin\Debug\netcoreapp3.1\EstruturaSequencial.runtimeconfig.dev.json
+C:\Csharp\Exercicios\EstruturaSequencial\EstruturaSequencial\bin\Debug\netcoreapp3.1\EstruturaSequencial.dll
+C:\Csharp\Exercicios\EstruturaSequencial\EstruturaSequencial\bin\Debug\netcoreapp3.1\EstruturaSequencial.pdb
+C:\Csharp\Exercicios\EstruturaSequencial\EstruturaSequencial\obj\Debug\netcoreapp3.1\EstruturaSequencial.csprojAssemblyReference.cache
+C:\Csharp\Exercicios\EstruturaSequencial\EstruturaSequencial\obj\Debug\netcoreapp3.1\EstruturaSequencial.AssemblyInfoInputs.cache
+C:\Csharp\Exercicios\EstruturaSequencial\EstruturaSequencial\obj\Debug\netcoreapp3.1\EstruturaSequencial.AssemblyInfo.cs
+C:\Csharp\Exercicios\EstruturaSequencial\EstruturaSequencial\obj\Debug\netcoreapp3.1\EstruturaSequencial.csproj.CoreCompileInputs.cache
+C:\Csharp\Exercicios\EstruturaSequencial\EstruturaSequencial\obj\Debug\netcoreapp3.1\EstruturaSequencial.dll
+C:\Csharp\Exercicios\EstruturaSequencial\EstruturaSequencial\obj\Debug\netcoreapp3.1\EstruturaSequencial.pdb
+C:\Csharp\Exercicios\EstruturaSequencial\EstruturaSequencial\obj\Debug\netcoreapp3.1\EstruturaSequencial.genruntimeconfig.cache
