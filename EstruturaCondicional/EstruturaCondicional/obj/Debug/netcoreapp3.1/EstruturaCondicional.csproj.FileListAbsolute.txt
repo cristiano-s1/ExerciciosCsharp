@@ -1,0 +1,13 @@
+C:\Csharp\Exercicios\EstruturaCondicional\EstruturaCondicional\bin\Debug\netcoreapp3.1\EstruturaCondicional.exe
+C:\Csharp\Exercicios\EstruturaCondicional\EstruturaCondicional\bin\Debug\netcoreapp3.1\EstruturaCondicional.deps.json
+C:\Csharp\Exercicios\EstruturaCondicional\EstruturaCondicional\bin\Debug\netcoreapp3.1\EstruturaCondicional.runtimeconfig.json
+C:\Csharp\Exercicios\EstruturaCondicional\EstruturaCondicional\bin\Debug\netcoreapp3.1\EstruturaCondicional.runtimeconfig.dev.json
+C:\Csharp\Exercicios\EstruturaCondicional\EstruturaCondicional\bin\Debug\netcoreapp3.1\EstruturaCondicional.dll
+C:\Csharp\Exercicios\EstruturaCondicional\EstruturaCondicional\bin\Debug\netcoreapp3.1\EstruturaCondicional.pdb
+C:\Csharp\Exercicios\EstruturaCondicional\EstruturaCondicional\obj\Debug\netcoreapp3.1\EstruturaCondicional.csprojAssemblyReference.cache
+C:\Csharp\Exercicios\EstruturaCondicional\EstruturaCondicional\obj\Debug\netcoreapp3.1\EstruturaCondicional.AssemblyInfoInputs.cache
+C:\Csharp\Exercicios\EstruturaCondicional\EstruturaCondicional\obj\Debug\netcoreapp3.1\EstruturaCondicional.AssemblyInfo.cs
+C:\Csharp\Exercicios\EstruturaCondicional\EstruturaCondicional\obj\Debug\netcoreapp3.1\EstruturaCondicional.csproj.CoreCompileInputs.cache
+C:\Csharp\Exercicios\EstruturaCondicional\EstruturaCondicional\obj\Debug\netcoreapp3.1\EstruturaCondicional.dll
+C:\Csharp\Exercicios\EstruturaCondicional\EstruturaCondicional\obj\Debug\netcoreapp3.1\EstruturaCondicional.pdb
+C:\Csharp\Exercicios\EstruturaCondicional\EstruturaCondicional\obj\Debug\netcoreapp3.1\EstruturaCondicional.genruntimeconfig.cache
