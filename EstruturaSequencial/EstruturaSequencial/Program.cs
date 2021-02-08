@@ -8,11 +8,11 @@ namespace EstruturaSequencial
         static void Main(string[] args)
         {
             #region Exercicio 01
-            //int n1 = int.Parse(Console.ReadLine());
-            //int n2 = int.Parse(Console.ReadLine());
-            //int soma = n1 + n2;
+            int n1 = int.Parse(Console.ReadLine());
+            int n2 = int.Parse(Console.ReadLine());
+            int soma = n1 + n2;
 
-            //Console.WriteLine($"SOMA: {soma}");
+            Console.WriteLine($"SOMA: {soma}");
             #endregion
 
             #region Exercicio 02

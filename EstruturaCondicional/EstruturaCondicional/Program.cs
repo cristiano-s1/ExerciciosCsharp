@@ -8,16 +8,16 @@ namespace EstruturaCondicional
         static void Main(string[] args)
         {
             #region Exercicio 01
-            //int numero = int.Parse(Console.ReadLine());
+            int numero = int.Parse(Console.ReadLine());
 
-            //if (numero >= 0)
-            //{
-            //    Console.WriteLine("NAO NEGATIVO");
-            //}
-            //else
-            //{
-            //    Console.WriteLine("NEGATIVO");
-            //}
+            if (numero >= 0)
+            {
+                Console.WriteLine("NAO NEGATIVO");
+            }
+            else
+            {
+                Console.WriteLine("NEGATIVO");
+            }
             #endregion
 
             #region Exercicio 02
