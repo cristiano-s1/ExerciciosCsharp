@@ -1,0 +1,13 @@
+C:\Csharp\Exercicios\EstruturaFor\EstruturaFor\bin\Debug\netcoreapp3.1\EstruturaFor.exe
+C:\Csharp\Exercicios\EstruturaFor\EstruturaFor\bin\Debug\netcoreapp3.1\EstruturaFor.deps.json
+C:\Csharp\Exercicios\EstruturaFor\EstruturaFor\bin\Debug\netcoreapp3.1\EstruturaFor.runtimeconfig.json
+C:\Csharp\Exercicios\EstruturaFor\EstruturaFor\bin\Debug\netcoreapp3.1\EstruturaFor.runtimeconfig.dev.json
+C:\Csharp\Exercicios\EstruturaFor\EstruturaFor\bin\Debug\netcoreapp3.1\EstruturaFor.dll
+C:\Csharp\Exercicios\EstruturaFor\EstruturaFor\bin\Debug\netcoreapp3.1\EstruturaFor.pdb
+C:\Csharp\Exercicios\EstruturaFor\EstruturaFor\obj\Debug\netcoreapp3.1\EstruturaFor.csprojAssemblyReference.cache
+C:\Csharp\Exercicios\EstruturaFor\EstruturaFor\obj\Debug\netcoreapp3.1\EstruturaFor.AssemblyInfoInputs.cache
+C:\Csharp\Exercicios\EstruturaFor\EstruturaFor\obj\Debug\netcoreapp3.1\EstruturaFor.AssemblyInfo.cs
+C:\Csharp\Exercicios\EstruturaFor\EstruturaFor\obj\Debug\netcoreapp3.1\EstruturaFor.csproj.CoreCompileInputs.cache
+C:\Csharp\Exercicios\EstruturaFor\EstruturaFor\obj\Debug\netcoreapp3.1\EstruturaFor.dll
+C:\Csharp\Exercicios\EstruturaFor\EstruturaFor\obj\Debug\netcoreapp3.1\EstruturaFor.pdb
+C:\Csharp\Exercicios\EstruturaFor\EstruturaFor\obj\Debug\netcoreapp3.1\EstruturaFor.genruntimeconfig.cache

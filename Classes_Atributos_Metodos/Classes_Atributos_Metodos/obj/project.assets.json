@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Csharp\\Exercicios\\EstruturaCondicional\\EstruturaCondicional\\EstruturaCondicional.csproj",
-      "projectName": "EstruturaCondicional",
-      "projectPath": "C:\\Csharp\\Exercicios\\EstruturaCondicional\\EstruturaCondicional\\EstruturaCondicional.csproj",
+      "projectUniqueName": "C:\\Csharp\\Exercicios\\Classes_Atributos_Metodos\\Classes_Atributos_Metodos\\Classes_Atributos_Metodos.csproj",
+      "projectName": "Classes_Atributos_Metodos",
+      "projectPath": "C:\\Csharp\\Exercicios\\Classes_Atributos_Metodos\\Classes_Atributos_Metodos\\Classes_Atributos_Metodos.csproj",
       "packagesPath": "C:\\Users\\cliente\\.nuget\\packages\\",
-      "outputPath": "C:\\Csharp\\Exercicios\\EstruturaCondicional\\EstruturaCondicional\\obj\\",
+      "outputPath": "C:\\Csharp\\Exercicios\\Classes_Atributos_Metodos\\Classes_Atributos_Metodos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cliente\\AppData\\Roaming\\NuGet\\NuGet.Config",

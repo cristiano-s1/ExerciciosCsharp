@@ -1,0 +1,13 @@
+C:\Csharp\Exercicios\Classes_Atributos_Metodos\Classes_Atributos_Metodos\bin\Debug\netcoreapp3.1\Classes_Atributos_Metodos.exe
+C:\Csharp\Exercicios\Classes_Atributos_Metodos\Classes_Atributos_Metodos\bin\Debug\netcoreapp3.1\Classes_Atributos_Metodos.deps.json
+C:\Csharp\Exercicios\Classes_Atributos_Metodos\Classes_Atributos_Metodos\bin\Debug\netcoreapp3.1\Classes_Atributos_Metodos.runtimeconfig.json
+C:\Csharp\Exercicios\Classes_Atributos_Metodos\Classes_Atributos_Metodos\bin\Debug\netcoreapp3.1\Classes_Atributos_Metodos.runtimeconfig.dev.json
+C:\Csharp\Exercicios\Classes_Atributos_Metodos\Classes_Atributos_Metodos\bin\Debug\netcoreapp3.1\Classes_Atributos_Metodos.dll
+C:\Csharp\Exercicios\Classes_Atributos_Metodos\Classes_Atributos_Metodos\bin\Debug\netcoreapp3.1\Classes_Atributos_Metodos.pdb
+C:\Csharp\Exercicios\Classes_Atributos_Metodos\Classes_Atributos_Metodos\obj\Debug\netcoreapp3.1\Classes_Atributos_Metodos.csprojAssemblyReference.cache
+C:\Csharp\Exercicios\Classes_Atributos_Metodos\Classes_Atributos_Metodos\obj\Debug\netcoreapp3.1\Classes_Atributos_Metodos.AssemblyInfoInputs.cache
+C:\Csharp\Exercicios\Classes_Atributos_Metodos\Classes_Atributos_Metodos\obj\Debug\netcoreapp3.1\Classes_Atributos_Metodos.AssemblyInfo.cs
+C:\Csharp\Exercicios\Classes_Atributos_Metodos\Classes_Atributos_Metodos\obj\Debug\netcoreapp3.1\Classes_Atributos_Metodos.csproj.CoreCompileInputs.cache
+C:\Csharp\Exercicios\Classes_Atributos_Metodos\Classes_Atributos_Metodos\obj\Debug\netcoreapp3.1\Classes_Atributos_Metodos.dll
+C:\Csharp\Exercicios\Classes_Atributos_Metodos\Classes_Atributos_Metodos\obj\Debug\netcoreapp3.1\Classes_Atributos_Metodos.pdb
+C:\Csharp\Exercicios\Classes_Atributos_Metodos\Classes_Atributos_Metodos\obj\Debug\netcoreapp3.1\Classes_Atributos_Metodos.genruntimeconfig.cache

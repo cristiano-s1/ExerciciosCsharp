@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Csharp\\Exercicios\\EstruturaCondicional\\EstruturaCondicional\\EstruturaCondicional.csproj": {}
+    "C:\\Csharp\\Exercicios\\EstruturaFor\\EstruturaFor\\EstruturaFor.csproj": {}
   },
   "projects": {
-    "C:\\Csharp\\Exercicios\\EstruturaCondicional\\EstruturaCondicional\\EstruturaCondicional.csproj": {
+    "C:\\Csharp\\Exercicios\\EstruturaFor\\EstruturaFor\\EstruturaFor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Csharp\\Exercicios\\EstruturaCondicional\\EstruturaCondicional\\EstruturaCondicional.csproj",
-        "projectName": "EstruturaCondicional",
-        "projectPath": "C:\\Csharp\\Exercicios\\EstruturaCondicional\\EstruturaCondicional\\EstruturaCondicional.csproj",
+        "projectUniqueName": "C:\\Csharp\\Exercicios\\EstruturaFor\\EstruturaFor\\EstruturaFor.csproj",
+        "projectName": "EstruturaFor",
+        "projectPath": "C:\\Csharp\\Exercicios\\EstruturaFor\\EstruturaFor\\EstruturaFor.csproj",
         "packagesPath": "C:\\Users\\cliente\\.nuget\\packages\\",
-        "outputPath": "C:\\Csharp\\Exercicios\\EstruturaCondicional\\EstruturaCondicional\\obj\\",
+        "outputPath": "C:\\Csharp\\Exercicios\\EstruturaFor\\EstruturaFor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cliente\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
